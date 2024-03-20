@@ -55,4 +55,4 @@ Contato:
     Email: marcosbenhurx@gmail.com
     Linkedin: https://www.linkedin.com/in/marcos-ben-hur-dorneles-da-silva-33249a70/
     Twitter: https://twitter.com/MechMarcos
-    Trello do rpojeto: https://trello.com/b/FiavBYBY/app-calibracao
+    Trello do projeto: https://trello.com/b/FiavBYBY/app-calibracao
