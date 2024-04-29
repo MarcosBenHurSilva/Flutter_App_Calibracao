@@ -24,20 +24,16 @@ Tecnologias:
 Instalação:
 
     Clone o repositório:
-
-git clone https://github.com/MarcosBenHurSilva/Flutter_App_Calibracao
+        git clone https://github.com/MarcosBenHurSilva/Flutter_App_Calibracao
 
     Navegue para a pasta do projeto:
-
-cd app-calibracao
+        d app-calibracao
 
     Instale as dependências:
-
-flutter pub get
+        flutter pub get
 
     Execute o aplicativo:
-
-flutter run
+        flutter run
 
 Contribuições:
 
